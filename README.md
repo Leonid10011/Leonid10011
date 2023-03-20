@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Leonid10011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript && React
+- With goal to find a place in web devolepment.
 
 <!---
 Leonid10011/Leonid10011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
